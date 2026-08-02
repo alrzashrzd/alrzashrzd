@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**aleerezashz/aleerezashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm just a regular everyday normal developer :)
 
-Here are some ideas to get you started:
+Based in Istanbul, Türkiye;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **ALPHA AI**
+- 🌱 I’m currently learning **OWASP**
+- 🌍 I'm mostly active within the **DevOps Community**
+- 💬 `ping` me about **Anything!**
+- 👨‍💻 All of my projects are available at linktr.ee/aleerezashz
+- 📫 How to reach me: [alireza.shirzad@bk.ru](mailto:alireza.shirzad@bk.ru)
+- ⚡ Fun fact: Successfully led a technology exhibition that attracted 500+ participants, strengthening the tech community.
+
+- ⚙️ Frontend: `HTML, CSS, JavaScript, jQuery, React.js, Vue.js, Bootstrap, Tailwind`
+- ⚙️ Backend: `PHP, Laravel, Node.js, Python, TypeScript`
+- ⚙️ CMS: `WordPress, WooCommerce, WP-CLI, REST APIs`
+- ⚙️ Databases: `MySQL, MongoDB, PostgreSQL`
+- ⚙️ DevOps & Tools: `Git, Docker, CI/CD, API Integration, Payment Gateways, Terraform, Ansible`
+- ⚙️ Methodologies: `Agile, Scrum, DevOps`
+
+---
