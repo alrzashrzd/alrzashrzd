@@ -8,7 +8,7 @@ Based in Istanbul, Türkiye;<br>
 - 🌱 I’m currently learning **OWASP**
 - 🌍 I'm mostly active within the **DevOps Community**
 - 💬 `ping` me about **Anything!**
-- 👨‍💻 All of my projects are available at linktr.ee/aleerezashz
+- 👨‍💻 Find out more about me on [🌐](https://aleerezashz.github.io/)
 - 📫 How to reach me: [alireza.shirzad@bk.ru](mailto:alireza.shirzad@bk.ru)
 - ⚡ Fun fact: Successfully led a technology exhibition that attracted 500+ participants, strengthening the tech community.
 
